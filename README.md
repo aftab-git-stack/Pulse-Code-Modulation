@@ -45,9 +45,7 @@ plt.show()
 
 ```
 # Output Waveform
-
 <img width="989" height="990" alt="pcm_dm" src="https://github.com/user-attachments/assets/911039ba-b528-4b96-a8d4-f48751d469a4" />
-
 
 # Results
 ```
